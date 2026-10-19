@@ -1,0 +1,217 @@
+.ferstLWclass {
+  font-size: 30px;
+  color: orangered;
+  margin-left: 350px;
+  border-right: solid 1px rgb(189, 184, 184);
+  padding-right: 20px;
+}
+.classnavul {
+  display: flex;
+}
+.navclassabout {
+  display: flex;
+  margin-left: 10px;
+  list-style: none;
+  font-size: 20px;
+  gap: 40px;
+  margin-top: 25px;
+  color: black;
+}
+
+.navclassabout a {
+  color: black;
+  text-decoration: none;
+}
+.imgclass {
+  width: 25px;
+  margin-left: 400px;
+}
+.imgclasstwo {
+  width: 25px;
+  margin-left: -25px;
+}
+.LukeWilliams {
+  font-size: 150px;
+  margin-left: 350px;
+}
+.Founder {
+  font-size: 30px;
+  margin-left: 350px;
+  margin-top: -85px;
+  color: rgb(53, 53, 53);
+}
+.entertainment {
+  font-size: 30px;
+  width: 1100px;
+  margin-left: 350px;
+  color: rgb(83, 83, 83);
+  margin-top: 100px;
+}
+.framer-text {
+  margin-left: 560px;
+}
+.LatestProjects {
+  margin-left: 350px;
+  font-size: 50px;
+  margin-top: 100px;
+}
+.Viewall {
+  font-size: 25px;
+  color: rgb(83, 83, 83);
+  margin-top: 125px;
+  margin-left: 650px;
+}
+.parenth3andp {
+  display: flex;
+}
+
+.hr-lastproject {
+  width: 65%;
+  margin-left: 345px;
+  margin-top: -15px;
+
+  border: none;
+  border-top: 2px solid rgb(248, 144, 107);
+}
+
+.cardsparent {
+  display: flex;
+  gap: 50px;
+  margin-left: 380px;
+}
+
+.card {
+  border: solid 2px white;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  width: 300px;
+}
+
+.cardimg img {
+  border-radius: 10px;
+}
+
+.cardtitle h2:hover {
+  color: orangered;
+  transition: 0.5s;
+}
+
+.LatestPostsparentdiv {
+  display: flex;
+}
+
+.LatestPosts {
+  font-size: 50px;
+  margin-left: 350px;
+  margin-top: 50px;
+}
+
+.classview {
+  font-size: 25px;
+  color: rgb(83, 83, 83);
+  margin-left: 700px;
+  margin-top: 60px;
+}
+
+.divparentclassall {
+  margin-left: 350px;
+  margin-right: 280px;
+}
+.Framer {
+  display: flex;
+  border-bottom: solid 1px;
+  border-color: gray;
+}
+.Jul {
+  color: rgb(83, 83, 83);
+}
+.built {
+  margin-left: 50px;
+}
+.built:hover {
+  color: orangered;
+  transition: 0.3s;
+}
+
+.divprentofserchebox {
+  border: solid 1px;
+  width: 1043px;
+  height: 300px;
+  background-color: rgb(234, 240, 238);
+  margin-top: 100px;
+  margin-left: 350px;
+  border-radius: 8px;
+  border-color: rgb(177, 174, 174);
+}
+
+.Subscribeparent {
+  display: flex;
+}
+
+.Subscribediv {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.imgdivclass {
+  width: 340px;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.classinput {
+  width: 240px;
+  padding: 20px;
+  border: solid 1px;
+  border-radius: 6px;
+  color: gray;
+}
+.Subscribebtnclass {
+  background-color: rgb(52, 48, 56);
+  padding: 20px;
+  border: solid 1px;
+  border-radius: 6px;
+  border-color: white;
+  width: 150px;
+  color: white;
+}
+.updated {
+  width: 399px;
+  font-size: 25px;
+}
+.getTemplate {
+  padding: 14px;
+  width: 150px;
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  border: solid 1px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.Madeclassdiv {
+  padding: 10px;
+  width: 150px;
+
+  font-size: 15px;
+  border: solid 1px;
+  border-radius: 20px;
+  border-color: rgb(175, 175, 173);
+}
+.divparentofbtn {
+  margin-left: 1500px;
+  position: sticky;
+  bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .madiaqorysection {
+    background-color: red;
+  }
+}
+.divparentofbtn {
+  position: fixed;
+  margin-bottom:  10px;
+  right: 10px;
+  
+}
+
+
